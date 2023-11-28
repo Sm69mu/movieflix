@@ -17,7 +17,7 @@ A movie showcasing app made using flutter and tmdb api is used for data .
 1. Clone this repository:
 
    ```bash
-   git clone
+   git clone https://github.com/Sm69mu/movieflix.git
 
    cd movieflix
 
