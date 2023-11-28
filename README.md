@@ -7,6 +7,7 @@ A movie showcasing app made using flutter and tmdb api is used for data .
 - **Now Playing**:This Now Playing page shows the currently on airing movies.
 
 - **Top rated**:The top rated movies are shown here
+- **Movie details**:In this page movie runtime, overview, rating are shown 
 
 ### Prerequisites
 
